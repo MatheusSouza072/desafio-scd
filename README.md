@@ -11,8 +11,7 @@ mvn clean package install
 ```
 
 Esse comando fará com que os testes e todo o build da aplicação seja rodado<br>
-
-Após isso, entre na pasta target e execute o seguinte comando:
+Estando na raiz do projeto, execute o seguinte comando:
 
 ```bash
 java -jar .\target\dbc-0.0.1-SNAPSHOT.jar .\input.csv
