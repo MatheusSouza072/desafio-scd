@@ -1,4 +1,4 @@
-# Sistema de Atualização de contas
+# Serviço da Receita
 
 Garante que tenha instalado as seguintes tecnologias.
 
@@ -22,4 +22,3 @@ O diretório do arquivo é opcional, podendo ser alterado para qualquer local.
 ```bash
 ex: java -jar .\target\dbc-0.0.1-SNAPSHOT.jar C:\usuario\input.csv
 ```
-
