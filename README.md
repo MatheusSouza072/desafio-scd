@@ -2,8 +2,8 @@
 
 Garante que tenha instalado as seguintes tecnologias.
 
-* Java 11
-* Maven
+- Java 11
+- Maven
 
 Entre na raiz do projeto e rode:
 ```bash
